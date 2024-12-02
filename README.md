@@ -25,9 +25,7 @@ Cuda-11.3 is required.
 
 ## Visualization
 
-![S3DIS_VIS](./img/s3dis_vis.png)
-
-![Semantic3D_VIS](./img/semantic3d_vis.png)
+![](./img/s3dis_vis.png)
 
 ```
 
