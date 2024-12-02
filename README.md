@@ -7,8 +7,7 @@
 We provide a simple bash file to install the environment:
 
 ```
-git clone --recurse-submodules git@github.com:guochengqian/PointNeXt.git
-cd PointNeXt
+cd PointMLPD
 source update.sh
 source install.sh
 ```
@@ -24,9 +23,8 @@ Cuda-11.3 is required.
 
   ![](https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image2.png)
 
-  ![](https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image4.png)
 
-
+  <img src="https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image4.png" width=85% height=85% class="center">
 ## Visualization
 
 ![](https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image1/vis1.png)
