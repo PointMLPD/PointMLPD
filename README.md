@@ -23,7 +23,7 @@ Cuda-11.3 is required.
 
   ![](https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image2.png)
 <div align=center>
-<img src="https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image4.png" width="580" height="405">
+<img src="https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image4.png" width="480" height="405">
 </div>
 
 ## Visualization
