@@ -24,7 +24,7 @@ Cuda-11.3 is required.
   ![](https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image2.png)
 
 
-  <img src="https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image4.png" width=65% height=85% class="center">
+  <img src="https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image4.png" width=65% height=65% class="center">
 ## Visualization
 
 ![](https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image1/vis1.png)
