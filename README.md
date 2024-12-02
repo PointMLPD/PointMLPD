@@ -25,7 +25,7 @@ Cuda-11.3 is required.
 
 ## Visualization
 
-![](./img/s3dis_vis.png)
+![](https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image1/vis1.png)
 
 ```
 
