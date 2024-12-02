@@ -22,9 +22,10 @@ Cuda-11.3 is required.
   | Semantic3D               | https://pan.baidu.com/s/1OobH25NYggGYL9tW_Id31A : syy2 |
 
   ![](https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image2.png)
+<div align=center>
+<img src="https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image4.png" width="180" height="105"> width="180" height="105"/>
+</div>
 
-
-  <img src="https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image/Image4.png" width='500' height='300' class="center">
 ## Visualization
 
 ![](https://github.com/Shaoyuyuanneu/PointMLPD/blob/main/image1/vis1.png)
