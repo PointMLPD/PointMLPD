@@ -24,9 +24,3 @@ Cuda-11.3 is required. Modify the `install.sh` if a different cuda version is us
 ---
 
 ### Acknowledgment
-This library is inspired by [PyTorch-image-models](https://github.com/rwightman/pytorch-image-models) and [mmcv](https://github.com/open-mmlab/mmcv). 
-
-
-=======
-# PointMLPD
->>>>>>> 860743380a7ad99da81eb66d94e0084b1b972a27
