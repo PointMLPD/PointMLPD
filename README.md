@@ -19,8 +19,8 @@ Cuda-11.3 is required.
 
   | Dataset                  |                                 Baidu Cloud           | 
   |--------------------------|-------------------------------------------------------|
-  | S3DIS                    | https://pan.baidu.com/s/1QSdXmhuJYixxYFF70No4XQ: rw6m | 
-  | Semantic3D               | https://pan.baidu.com/s/1rsbPDTUXH-4-XvDSb0K2-g: bzcz |
+  | S3DIS                    | https://pan.baidu.com/s/1uYD61F8XnQsJqdPgX5-KWg : syy1 | 
+  | Semantic3D               | https://pan.baidu.com/s/1OobH25NYggGYL9tW_Id31A : syy2 |
 
 
 ## Visualization
