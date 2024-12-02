@@ -36,4 +36,4 @@ Cuda-11.3 is required.
 
 Part of our code refers to the work [PointNext]https://github.com/guochengqian/PointNeXt
 
-
+This library is inspired by [PyTorch-image-models](https://github.com/rwightman/pytorch-image-models)
