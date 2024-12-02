@@ -34,6 +34,6 @@ Cuda-11.3 is required.
 
 ## Acknowledgment
 
-Part of our code refers to the work [PointNext](https://github.com/guochengqian/PointNeXt)
+Part of our code refers to the work [PointNext]https://github.com/guochengqian/PointNeXt
 
 
